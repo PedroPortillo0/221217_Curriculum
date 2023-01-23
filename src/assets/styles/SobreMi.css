@@ -1,0 +1,29 @@
+.SobreMi{
+    width: 30%;
+    padding: 3%;
+    margin-top: 5%;
+    margin-left: 0;
+    text-align: justify;
+    
+ 
+   
+}
+
+
+.tex{
+    width: 80%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 10%;
+    font-size: 150%;
+
+    display: flex;
+    
+    justify-content: center;
+    align-content: center;
+    align-items: flex-start;
+
+
+
+
+}

@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box
+}
+
+.Header{
+    width: 80%;
+  margin: 0% 5%;
+  display: flex;
+    
+}
+.Foto{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Foto img {
+    width: 89%;
+}
+.Texto {
+    width: 80%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 10%;
+    font-size: 150%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-start;
+  
+}
+.Texto .name{
+    width: 100%;
+    text-align: center;
+}
+.Texto .carrera {
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+.habilidades{
+    width: 95%;
+ 
+    margin: 0% 40%;
+    margin-top: -32%;
+    text-align: justify;
+}
+
+.hab{
+    width: 80%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 10%;
+    font-size: 150%;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-start;
+} 
+
+
+.barras img {
+    width: 22%;
+    margin-left: 30%; 
+    padding-top: 0%;
+}

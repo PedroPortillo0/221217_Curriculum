@@ -1,0 +1,20 @@
+.formacion{
+    width: 30%;
+    padding: 3%;
+    margin-top: 15%;
+    margin-left: 0;
+    text-align: justify;
+    
+ 
+}
+
+.textoo{
+    width: 80%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 150%;
+    flex-wrap: wrap;
+    margin-top: 1%;
+
+}
+
